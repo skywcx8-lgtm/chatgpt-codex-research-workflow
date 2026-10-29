@@ -1,0 +1,25 @@
+# Generated collaboration data and local configuration must remain private.
+private-rounds/
+private-*.json
+request.md
+receipt.json
+web_reply.md
+.local-runtime/
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+*.dpapi.*
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.odb
+*.cae
+*.inp
+*.csv
+*.xlsx
+*.zip

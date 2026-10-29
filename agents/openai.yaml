@@ -1,0 +1,6 @@
+interface:
+  display_name: "ChatGPT–Codex Collaboration"
+  short_description: "Scoped web collaboration with verified local evidence"
+  default_prompt: "Use $chatgpt-codex-research-workflow to collaborate with my selected ChatGPT conversation using only the evidence and actions I authorize."
+policy:
+  allow_implicit_invocation: false
